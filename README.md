@@ -16,4 +16,4 @@ This project involves simulating a realistic workflow to refactor a previous pro
   - `Git-KeyTerms.pdf`
 
 ## Credits
-Git documentation is very useful.
+Thanks to the Git community for their invaluable [documentation](https://git-scm.com/doc).
