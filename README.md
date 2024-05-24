@@ -1,14 +1,19 @@
-# BikeShare Project
+# Post Your Work on GitHub
 
-## Project Overview
-This project analyzes bikeshare data in various cities to uncover usage patterns.
+## Date created
+May 24, 2024
 
-## Installation
-Clone the repository and ensure you have Python installed.
+## Description
+In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
 
-## Usage
-Run `bikeshare.py` to start the analysis.
+## List of Software, Firmware, and Hardware You May Require
+- Installing GIT tool: [Download here](https://git-scm.com/downloads)
 
-## Project Structure
-- `bikeshare.py`: Main script for data analysis
-- `.gitignore`: Specifies files to ignore
+## Files Used
+- The following file contains necessary commands used to do tasks:
+  - `Git Commands Documentation.pdf`
+- The following files help to understand the Git key terms:
+  - `Git-KeyTerms.pdf`
+
+## Credits
+Git documentation is very useful.
