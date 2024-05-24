@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Dictionary to map city names to their respective data files
-CITY_DATA = {
+CITYS = {
     'Chicago': 'chicago.csv',
     'New York City': 'new_york_city.csv',
     'Washington': 'washington.csv'
@@ -73,7 +73,7 @@ def load_data(city, month, day):
     """
     # function implementation
     # Load data file into a dataframe
-    df = pd.read_csv(CITY_DATA[city])
+    df = pd.read_csv(CITYS[city])
 
     # Convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
